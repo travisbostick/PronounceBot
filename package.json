@@ -1,0 +1,14 @@
+{
+  "name": "pronouncebot",
+  "version": "1.0.0",
+  "description": "A twitter bot answering pronunciation questions",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Bostick",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
